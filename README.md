@@ -46,3 +46,12 @@ The figure below illustrates this behavior using an example.
 1. As the joystick remains at a positive value, the reference speed is incremented again.
 1. However, it reaches the speed limit so in the next step it is not incremented even though the joystick still has a positive value.
 1. Later, the joystick is set to a negative position for one time unit, making the reference speed to decrease as well.
+
+### These are the changes made for exercise 2.2
+* This is an unordered list element
+* This is another unordered list element
+* **This one is bold**
+* *This one is italic*
+
+#### This is a heading with 4 #s
+[This is a link](https://github.com/AdamZsofi/base) to this fork of the repository.
